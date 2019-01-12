@@ -7,34 +7,15 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
+Data is the wiring that connects our society, but we are missing opportunities. I help people use data to improve things like ambulance routing and city planning.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For the past 4 years, I served as Chief Data Officer at the City of San Diego. I’m good at writing Python and running high-level strategy meetings. I built an advanced technical team that can navigate politics. We help people get and leverage data for impact.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I worked at Code for America and Puerto Rico, connecting businesses and government. Before that, I ran large engineering teams in the private sector.
+
+I came to the US from Ukraine when I was 10 years old. I lived in 5 countries and speak 3 languages.
+

@@ -9,11 +9,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Maksim Pecherskiy"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019  "
 
 theme = "academic"
 enableEmoji = true
@@ -52,28 +52,28 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Maksim Pecherskiy"
+  role = "Chief Data Officer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "City of San Diego", url = "https://sandiego.gov" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
+  email = "max@maksimize.com"
+  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  #office_hours = """
+  #Monday 10:00 to 13:00<br>
+  #Wednesday 09:00 to 10:00<br>
+  #Otherwise email to book an appointment
+  #"""
   phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  #skype = "echo123"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -132,7 +132,7 @@ enableGitInfo = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
