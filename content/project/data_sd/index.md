@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "StreetsSD"
+title = "DataSD"
 
 # Date this page was created.
 # date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "City of SD Street Paving Visualization and Planning"
+summary = "City of San Diego Open Data Portal"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 # tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://streets.sandiego.gov"
+external_link = "https://data.sandiego.gov"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
