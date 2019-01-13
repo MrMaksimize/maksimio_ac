@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-132393686-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -63,20 +63,20 @@ enableGitInfo = false
   avatar = "mag_head.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "max@maksimize.com"
+  #email = "max@maksimize.com"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = """
   #Monday 10:00 to 13:00<br>
   #Wednesday 09:00 to 10:00<br>
   #Otherwise email to book an appointment
   #"""
-  phone = "888 888 88 88"
+  #phone = "+1.773.677.7755"
   #skype = "echo123"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+  appointment_url = "https://calendly.com/maksimp"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "MrMaksimize"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -209,7 +209,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -268,17 +268,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/MrMaksimize"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
+    icon = "linkedin"
+    icon_pack = "fab"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/MrMaksimize"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
