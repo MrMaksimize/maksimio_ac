@@ -240,7 +240,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 1
 
   # Social/Academic Networking
   #
@@ -314,6 +314,12 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
+
 
 #[[menu.main]]
 #  name = "Tutorials"
