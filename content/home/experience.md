@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
