@@ -220,7 +220,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Post list format.
     #   0 = Simple
@@ -240,7 +240,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 1
+    talk_format = 0
 
   # Social/Academic Networking
   #

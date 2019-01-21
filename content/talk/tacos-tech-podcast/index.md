@@ -16,11 +16,11 @@ abstract_short = "How the City of San Diego data team is building a city governm
 #abstract_short = ""
 
 # Name of event and optional event URL.
-event = "CARTO Locations 2018"
-event_url = ""
+event = "Tacos & Tech Podcast"
+event_url = "https://medium.com/@NealBloom_77520/maksim-pecherskiy-the-tacos-tech-podcast-f9f2b426039b"
 
 # Location of event.
-location = "Brooklyn, NY"
+location = "San Diego, CA"
 
 # Is this a selected talk? (true/false)
 selected = false
