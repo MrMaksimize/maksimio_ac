@@ -6,7 +6,7 @@ title = "StormVIO"
 # date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "City of San Diego Open Data Portal"
+summary = "Storm Water Violations Citation Coordination Tool"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
