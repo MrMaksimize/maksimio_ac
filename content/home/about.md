@@ -13,7 +13,7 @@ weight = 5
 # Biography
 I bridge the gap between those who want to make an impact on society and the technology and data that enables them to do so.
 
-Governments and nonprofits need help liberating data from silos and making it actionable. I help them develop data and technology strategies, and I write code to implement them.
+Governments and nonprofits need help liberating data from silos and making it actionable. I help them develop and implement data and technology strategies.
 
 I geek out about government and geospatial data, cybersecurity, data engineering and development processes. I love solving problems within transportation, emergency management, sustainability and housing.
 
