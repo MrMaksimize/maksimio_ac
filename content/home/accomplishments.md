@@ -57,14 +57,6 @@ date_format = "Jan 2006"
 
 
 
-[[item]]
-  title = "Window Award"
-  organization = "San Diego Society of Professional Journalists"
-  certificate_url = "https://spjsandiego.org/2016/03/09/announcing-the-2016-sunshine-award-plus-wall-and-window-nominees"
-  date_start = "2016-10-01"
-  date_end = ""
-  description = ""
-
 
 
 
