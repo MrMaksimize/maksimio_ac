@@ -11,11 +11,15 @@ weight = 5
 +++
 
 # Biography
-Data is the wiring that connects our society, but we are missing opportunities. I help people use data to improve things like ambulance routing and city planning.
+I bridge the gap between those who want to make an impact on society and the technology and data that enables them to do so.
 
-For the past 4 years, I served as Chief Data Officer at the City of San Diego. I’m good at writing Python and running high-level strategy meetings. I built an advanced technical team that can navigate politics. We help people get and leverage data for impact.
+Governments and nonprofits need help liberating data from silos and making it actionable. I help them develop data and technology strategies, and I write code to implement them.
 
-Previously, I worked at Code for America and Puerto Rico, connecting businesses and government. Before that, I ran large engineering teams in the private sector.
+I geek out about government and geospatial data, cybersecurity, data engineering and development processes. I love solving problems within transportation, emergency management, sustainability and housing.
+
+For 5 years, I served as Chief Data Officer at the City of San Diego. I’m good at writing Python and running high-level strategy meetings. I built an advanced technical team that can navigate politics. 
+
+Before that, I worked at Code for America and Puerto Rico, connecting businesses and government. I come from software engineering in the private sector.
 
 I came to the US from Ukraine when I was 10 years old. I lived in 5 countries and speak 3 languages.
 
